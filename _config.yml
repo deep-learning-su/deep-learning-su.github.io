@@ -1,0 +1,20 @@
+# Site settings
+title: Deep Learning with Tensorflow
+email: george@gradient-flow.com
+description: "Course materials and notes for Sofia University class: Deep Learning with Tensorflow"
+baseurl: ""
+url: "http://deep-learning-su.github.io"
+github_username:  deep-learning-su
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+
+theme: jekyll-theme-slate
