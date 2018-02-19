@@ -43,7 +43,7 @@ a:visited { color: #205caa; }
 
 .module-header {
   font-size: 24px;
-  color: #8C1515;
+  color: #201a16;
   margin-top: 20px;
   margin-bottom: 5px;
 }
@@ -126,7 +126,7 @@ a:visited { color: #205caa; }
 .site-header {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  background-color: #8C1515;
+  background-color: #201a16;
 }
 
 .site-title,
