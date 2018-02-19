@@ -25,6 +25,9 @@ See the [Assignment Page](https://deep-learning-su.github.io/assignment-requirem
 #### Course Project Details
 To be announced soon.
 
+#### Poster Session
+To be anounced soon
+
 #### Contacts
 - George Stoyanov - george@gradient-flow.com
 - Ivailo Karamanolev - ivailo@karamanolev.com
