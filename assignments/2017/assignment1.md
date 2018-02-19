@@ -17,7 +17,7 @@ In this assignment you will practice putting together a simple image classificat
 - get a basic understanding of performance improvements from using **higher-level representations** than raw pixels (e.g. color histograms, Histogram of Gradient (HOG) features)
 
 ### Working locally
-Get the code as a zip file [here](http://cs231n.stanford.edu/assignments/2017/spring1617_assignment1.zip). As for the dependencies:
+Get the code as a zip file [here](https://drive.google.com/file/d/1nVNYdEgm2Z7Ze2gzuoz9JLdOTXtt3hxu/view?usp=sharing). As for the dependencies:
 
 **Installing Python 3.5+:**
 To use python3, make sure to install version 3.5 or 3.6 on your local machine. If you are on Mac OS X, you can do this using [Homebrew](https://brew.sh) with `brew install python3`. You can find instructions for Ubuntu [here](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04).
@@ -62,9 +62,7 @@ errors with matplotlib due to the [issues described here](http://matplotlib.org/
 ### Submitting your work:
 Whether you work on the assignment locally or using Terminal, once you are done
 working run the `collectSubmission.sh` script; this will produce a file called
-`assignment1.zip`. Upload this file to your dropbox on
-[the coursework](https://coursework.stanford.edu/portal/site/W16-CS-231N-01/)
-page for the course.
+`assignment1.zip`. Then follow the instructions described [here](https://deep-learning-su.github.io/assignment-requirements/).
 
 ### Q1: k-Nearest Neighbor classifier (20 points)
 
