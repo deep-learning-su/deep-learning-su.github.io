@@ -4,7 +4,6 @@ title: Assignment Requirements
 permalink: /assignment-requirements/
 ---
 
-# When to Hand in
 The assignments are due at midnight. The due dates for the assignments will be
 announced during lectures
 
