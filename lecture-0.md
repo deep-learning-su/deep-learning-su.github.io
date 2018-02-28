@@ -5,8 +5,8 @@ permalink: /lecture-0/
 ---
 
 #### Slides & lecture examples:
-To be added after the first lecture.
-
+- [Slides](https://drive.google.com/file/d/1RTrS8Qo7qvtJjeuXRnnOww0zW5R_-iW2/view?usp=sharing)
+- [Video](https://www.youtube.com/watch?v=JKRpUIFrTBo)
 
 #### Suggested readings:
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
