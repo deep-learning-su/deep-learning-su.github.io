@@ -11,4 +11,4 @@ permalink: /lecture-4/
 - [Demos](https://drive.google.com/open?id=1vL6YxB8Z531CMPt7APgKwmWfg3e41CMv)
 
 #### Suggested readings:
-- [Convolutional Nets notes]()
+- [Convolutional Nets notes](https://deep-learning-su.github.io/convolutional-networks/)
