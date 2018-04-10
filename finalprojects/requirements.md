@@ -29,7 +29,7 @@ The project proposal and milestone are small, and are only worth a small amount 
 To inspire project ideas we have listed some interesting datasets, papers
 as well as well as provided some sample default projects that you can choose from.
 
-You can see more information [here](fianlprojects/requirements).
+You can see more information [here](/finalprojects/requirements).
 
 #### Project requirements
 
