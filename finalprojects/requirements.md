@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Final Project Requirements
-permalink: /finalprojects/requirements/
 ---
 
 #### Overview
@@ -18,9 +17,9 @@ that larger teams will be expected to do correspondingly larger projects.
 
 #### Important dates
 
-- Course project proposal: due **April 17**.
-- Course project milestone: due **May 15**.
-- The final presentations / demo day will be held in the end of June (**TBA**)
+- Course project proposal: due **TBA**
+- Course project milestone: due **TBA**.
+- The final presentations will be held in the end of June (**TBA**)
 - Final submission: due **TBA**
 
 The project proposal and milestone are small, and are only worth a small amount of credit for submitting them on time. However, you cannot use late days for them. You can use up to three late days for the course project. However, note that if you are in a team, pushing the deadline back a day takes one late day per person (see the grading page).
@@ -29,7 +28,7 @@ The project proposal and milestone are small, and are only worth a small amount 
 To inspire project ideas we have listed some interesting datasets, papers
 as well as well as provided some sample default projects that you can choose from.
 
-You can see more information [here](/finalprojects/project-inspirations).
+You can see more information [here](../project-inspirations).
 
 #### Project requirements
 

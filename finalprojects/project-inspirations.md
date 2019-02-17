@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Final Project - inspirations, datasets and papers
-permalink: /finalprojects/project-inspirations/
 ---
 
 
