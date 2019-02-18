@@ -29,6 +29,6 @@ To be anounced soon
 
 #### Contacts
 - Nikola Taushanov - nktaushanov@gmail.com
-- Petko Nikolov -
+- Petko Nikolov - py.nikolov@gmail.com
 - George Stoyanov - george@gradient-flow.com
 - Ivan Georgiev - ivan.vergiliev@gmail.com
