@@ -12,6 +12,7 @@ Spring quarter: (February-June, 2019)
 - Assignment #1: 15%
 - Assignment #2: 15%
 - Assignment #3: 15%
+- Seminar: 10%
 - Midterm: 15%
 - Final Project: 40%
 
