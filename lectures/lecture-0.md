@@ -4,7 +4,7 @@ title: Lecture 0
 ---
 
 #### Slides & lecture examples:
-- Slides (soon)
+- Slides (https://drive.google.com/open?id=13ceIsfR6ixUpJ3gnlJtTyzNdYA02t0wc)
 
 #### Suggested readings:
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
