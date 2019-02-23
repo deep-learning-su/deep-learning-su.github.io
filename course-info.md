@@ -17,7 +17,7 @@ Spring quarter: (February-June, 2019)
 - Final Project: 40%
 
 #### Course Discussions
-Join our slack community: [deep-learning-su](https://join.slack.com/t/deep-learning-su/shared_invite/enQtMzE3NTcyOTY3NzY1LTI3N2VmZThiZGM4NWJlYzA3MTZlMDg4ZGE2NDhlZTg4MTk1NDBjMGU1ZTEzMzI4MTgyODRjZmRiMDA4NTkwNDM)
+Join our slack community: [deep-learning-su](https://join.slack.com/t/deep-learning-su/shared_invite/enQtNTU4OTI1NzY0NTMyLTM1Y2ExNTk3N2ZjZTllZjVkYjJlZDY0NDgwZDY0OWJhZGMxY2YzNWRmMzFkNDIyNWQ1MmY1ZGM0YjM0NzViZTQ)
 
 #### Assignment Details
 See the [Assignment Page](/../assignment-requirements) for more details on how to hand in your assignments.
