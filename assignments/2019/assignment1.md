@@ -61,7 +61,10 @@ errors with matplotlib due to the [issues described here](http://matplotlib.org/
 ### Submitting your work:
 Whether you work on the assignment locally or using Terminal, once you are done
 working run the `collectSubmission.sh` script; this will produce a file called
-`assignment1.zip`. Then follow the instructions described [here](https://deep-learning-su.github.io/assignment-requirements/).
+`assignment1.zip`. You can upload your file to publicly accessible location and
+then provide us a link using [this form](https://goo.gl/forms/vdT56gvwsWycR5S93)
+or if you have a Google Account then you can directly upload the file and submit
+using [this form](https://goo.gl/forms/wYusFRlsMMshLjtY2).
 
 ### Q1: k-Nearest Neighbor classifier (20 points)
 
