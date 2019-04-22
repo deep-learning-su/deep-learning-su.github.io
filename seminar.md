@@ -22,19 +22,25 @@ answer the following questions:
 
 1. Introduction
 - What problems is the paper solving?
-- Why are they interest?
+- Why are they of particular interest?
 - Outline possible solutions.
 
 2. Previous Work
-- What was the state of the art before?
-- Is there any connected previous work?
+- What was the state of the art priorly?
+- Is there any connected/related previous work?
 
 3. Contributions
 - List contributions of the paper.
-- The best format is: approach X achieve better results on Y along dimension D
+- The recommended format is: approach X achieves results on Y along dimension D
   Example: X = BatchNorm Y = CIFAR10, D = convergence time, accuracy etc.
 
-4. Main ideas
-5. Detailed approach
-6. Evaluation
+4. Main ideas  
+- Make an overview of the approaches and key ideas that you are going to present later
 
+5. Detailed approach
+- Pick the most important parts of the approach, given the time constraints of the presentation 
+- Explain each of them in details 
+
+6. Evaluation
+- List and explain the evaluation results in the paper
+- Make a comparison with other approaches
