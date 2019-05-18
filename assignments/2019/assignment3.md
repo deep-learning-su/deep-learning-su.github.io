@@ -2,7 +2,7 @@
 layout: page
 title: Assignment 3 - word2vec and RNNs
 ---
-Submission due date - **June 17th, 2019**
+Submission due date - **June 10th, 2019**
 
 
 ### Setting up a local environment
