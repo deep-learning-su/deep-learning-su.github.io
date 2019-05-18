@@ -69,9 +69,6 @@ Computer vision datasets:
 
 Others: you can always explore the [Kaggle Datasets](https://www.kaggle.com/datasets) for various types of datasets.
 
-#### Default project
-See the Stanford's CS224n default project's [page](http://web.stanford.edu/class/cs224n/default_project/index.html).
-
 #### Sample projects
 
 We have created few sample projects, which can give you an idea about the
