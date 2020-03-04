@@ -4,8 +4,8 @@ title: Lecture 1 - Image Classification
 ---
 
 #### Lecture materials:
-- [Slides](https://drive.google.com/open?id=1v5xtmaOtlxdCs0bwAzN05evofH5UXyz_)
-- [Demos](https://drive.google.com/file/d/1xxCkmdjLeb6IYNuacl8XJM2SfXz-4Oij/view?usp=sharing)
+- [Slides](https://drive.google.com/file/d/1b5xfo_O1mdFCbHFeNdXTPzw7TTJmbnij/view?usp=sharing)
+- [Demos](https://drive.google.com/file/d/1ZErjI_8FWUyKGL9lYv2BNnIs7pc5ZUSj/view?usp=sharing)
 
 #### Suggested readings:
 - [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](https://deep-learning-su.github.io/classification/)
