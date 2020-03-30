@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Lecture 4 - Convolutional Neural Networks
+title: Lecture 4 - Convolutional Neural Networks and Capsule Nets
 ---
 
 #### Lecture materials:
-- [Slides - Convolutional Neural Networks](https://drive.google.com/open?id=155ymyfIZYRzURE47dOygKOq0m6eghJcu)
+- [Video](https://www.youtube.com/watch?v=4U3i9qimWkI)
+- [Slides - CNNs and Capsule Nets](https://drive.google.com/open?id=1c38JRUg8dJZelzRxKM1ixTa1Pe6SNPMl)
+- [Demos](https://drive.google.com/open?id=1vL6YxB8Z531CMPt7APgKwmWfg3e41CMv)
 
 #### Suggested readings:
-- [Convolutional Nets notes](/convolutional-networks/)
-- [Feature Visualization](https://distill.pub/2017/feature-visualization/)
-- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
-- [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+- [Convolutional Nets notes](https://deep-learning-su.github.io/convolutional-networks/)
