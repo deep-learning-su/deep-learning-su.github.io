@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Lecture 8 - Seminar
+title: Lecture 8 - CNN Architectures, Detection and Segmentation
 ---
 
-#### Seminar materials:
-- [Progressive Neural Architecture Search](https://arxiv.org/pdf/1712.00559.pdf)
-- [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
-- [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
-- [Video-to-Video Synthesis](https://arxiv.org/pdf/1808.06601.pdf)
+The slides say lecture 9 but it was in fact lecture 8.
 
+#### Lecture materials:
+- [Video](https://youtu.be/Zx4sANr2PfY)
+- [Slides](https://drive.google.com/open?id=1lHz0R_H5u4jiScZFk8jHIQ-aplNsxZR2)

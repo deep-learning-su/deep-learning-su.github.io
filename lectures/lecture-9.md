@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Lecture 9 - Recurrent Neural Networks 
+title: Lecture 9 - Natural language processing and Word embeddings
 ---
 
 #### Lecture materials:
-- [Slides](https://drive.google.com/open?id=1_JqbGqIGYjgB3BItdk6w7g2bljMOe0sn)
+- [Video](https://youtu.be/1rCoMjn1mIM)
+- Slides - soon
 
