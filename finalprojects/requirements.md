@@ -7,29 +7,36 @@ title: Final Project Requirements
 
 The Course Project is worth a significant portion of your grade. It offers
 you the chance to apply your newly acquired skills towards an in-depth
-application. There are two options for the course project: choosing one of the sample / default
-final projects, and choosing your own topic. Keep in mind
-that teams will be expected to do correspondingly larger projects.
- You should only form a 2+ person team if you are planning to do an ambitious
- project where every team member will have a large contribution.
+application. Keep in mind that teams will be expected to do
+correspondingly larger projects. You should only form a 2+ person team if
+you are planning to do an ambitious project where every team member will
+have a large contribution.
 
 
 #### Important dates
 
-- Course project proposal: due **May 27th, 2019**.
-- The final presentations will be held in the end of June (**TBA**)
+- Course project proposal: due **June 8th, 2020**.
+- The final presentations date: **TBA**
 
-#### Default projects, datasets and interesting papers
-To inspire project ideas we have listed some interesting datasets, papers
-as well as well as provided some sample default projects that you can choose from.
+#### Student projects from previous years
+Use this list as an inspiration for your topic:
+* Agent that plays the "Breakout" atari game
+* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network - implementation and comparison with original paper, experiments with improvements and results.
+* [Check that](https://sites.google.com/view/clef2019-checkthat/task-1-check-worthiness)
+* Facial expression recognition
+* Generating image descriptions
+* Short story generator
+* Style Transfer of Non-Patterned Data
 
+
+#### Datasets and interesting papers
 You can see more information [here](../project-inspirations).
 
 #### Project requirements
 
 The project proposal is only for groups doing the choose-your-own final project.
-Please submit one proposal url per team (any member of your team can submit) to
-the [Google Form](https://forms.gle/pNQojLjfgssRqR56A) by 11:59pm on May 27th.
+Please submit one proposal per team (any member of your team can submit) to
+the [Google Form](https://forms.gle/7ZJyqDXRjUEMktQq6) by 11:59pm on June 8th.
 You can not use late days for the project proposal.
 It should contain the following sections:
 
