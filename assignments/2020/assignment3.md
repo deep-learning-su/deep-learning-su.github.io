@@ -11,7 +11,7 @@ For this assignment you would need Python 3.5+ installed with Tensorflow
 and Jupyter Notebooks. In case that you haven't set up your environment yet,
 please follow the instructions from [Assignment 1](/assignments/2020/assignment1/).
 
-### Assignment 2 Notebooks
+### Assignment 3 Notebooks
 Download the [zip](https://drive.google.com/open?id=1CuoMXrEo3GnHmqtzRP0lvax8THPUjBKE).
 It contains two notebooks:
 
