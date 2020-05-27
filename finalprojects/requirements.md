@@ -15,7 +15,7 @@ have a large contribution.
 
 #### Important dates
 
-- Course project proposal: due **June 8th, 2020**.
+- Course project proposal: due **June 15th, 2020**.
 - The final presentations date: **TBA**
 
 #### Student projects from previous years

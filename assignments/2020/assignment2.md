@@ -2,7 +2,7 @@
 layout: page
 title: Assignment 2 - Convolutional Neural Networks
 ---
-Submission due date - **June 8rd, 2020**
+Submission due date - **June 22rd, 2020**
 
 In this assignment you have to build a simple Convolutional Neural Network,
 experiment with different filter sizes and at the end implement
