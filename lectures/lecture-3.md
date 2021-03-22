@@ -4,7 +4,7 @@ title: Lecture 3 - Introduction to Neural Networks
 ---
 
 #### Lecture materials:
-- [Video](https://www.youtube.com/watch?v=pxGgqrxioz0)
+- [Video from 2018](https://www.youtube.com/watch?v=pxGgqrxioz0)
 - [Slides - Backpropagation and NNs](https://drive.google.com/file/d/1pbxumQuNOz8OQFBO9th2NjSqvDnxtG7b/view?usp=sharing)
 
 #### Suggested readings:
