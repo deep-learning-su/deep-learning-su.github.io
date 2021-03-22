@@ -4,9 +4,10 @@ title: Course Info
 ---
 
 #### Class Time and Location:
-Spring quarter: (February-June, 2021)
-- Lectures + Labs: Monday, 18:15-21:00
-- Location: online only
+Spring quarter: (February-June, 2020)
+- Lectures: Monday, 18:15-21:00
+- Labs: Monday, 21:00-22:00
+- Location: room 325, FMI ([map](https://www.google.bg/maps/place/Faculty+of+Mathematics+and+Informatics/@42.6743729,23.3282929,17z/data=!3m1!4b1!4m5!3m4!1s0x40aa85ac6b04a067:0x1c03d81bc96a6a96!8m2!3d42.6743729!4d23.3304816?hl=en))
 
 #### Grading Policy
 - Assignment #1: 15%

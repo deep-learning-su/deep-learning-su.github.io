@@ -4,7 +4,7 @@ title: Lecture 2 - Loss Functions and Optimization
 ---
 
 #### Lecture materials:
-- [Slides](https://drive.google.com/file/d/1Jw3ioiyY_ZCLggOI0ugV1ApbLBOz3jUZ/view?usp=sharing)
+- [Slides](https://drive.google.com/file/d/1I1Fxkfsy75-kjuJBR_o_qhIJbNihXXkX/view?usp=sharing)
 - [Video](https://www.youtube.com/watch?v=f8g06yX93nU)
 
 #### Suggested readings:
