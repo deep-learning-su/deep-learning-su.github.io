@@ -13,5 +13,5 @@ implement a neural network.
 
 ### Run locally
 
-Download the notebook from [Google Colab](https://colab.research.google.com/drive/1y5I-7pZylXr4V1qY5JDHuIWhCZ6YcfhC?usp=sharing) by clicking on `File -> Download .ipynb`. After this you need to have Jupyter ready in order to run the notebook. requirements.txt is currently not available for this excercise so you are on your own to resolve the dependencies which are used.
+Download the notebook from [Google Colab](https://colab.research.google.com/drive/1jw0pXhwqxqpXNdNN9KNUDU3aR9psPTrW?usp=sharing) by clicking on `File -> Download .ipynb`. After this you need to have Jupyter ready in order to run the notebook. requirements.txt is currently not available for this excercise so you are on your own to resolve the dependencies which are used.
 
