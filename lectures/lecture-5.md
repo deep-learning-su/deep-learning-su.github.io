@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Lecture 5 - Training Neural Networks 1
+title: Lecture 5 - Training Neural Networks (part 1)
 ---
 
-Video and slides are from 2018. No video is available from 2020. The slides were
-almost identical this year. The administrative part should be ignored.
+The video is from 2018, no video is available from 2021.
 
 #### Lecture materials:
-- [Video](https://www.youtube.com/watch?v=wTm_FEgoIK8)
-- [Slides](https://drive.google.com/file/d/1IOMsTMHnrDsgSP6FI30JjiQytp5KUWIf/view?usp=sharing)
+- [Video 2018](https://www.youtube.com/watch?v=wTm_FEgoIK8)
+- [Slides](https://drive.google.com/file/d/1xVtiL3FaY7Z_LLCGVyzveZtSQ31iAlw4/view?usp=sharing)
 - [Neural Network Notes 1](https://deep-learning-su.github.io/neural-networks-1/)
 - [Neural Network Notes 2](https://deep-learning-su.github.io/neural-networks-2/)
 - [Neural Network Notes 3](https://deep-learning-su.github.io/neural-networks-3/)

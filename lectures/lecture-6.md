@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Lecture 6 - Training Neural Networks 2, AI through an Economic lens
+title: Lecture 6 - Training Neural Networks (part 2)
 ---
 
-Video and slides are from 2018. No video is available from 2020. The slides were
+Video and slides are from 2018. No video is available from 2021. The slides were
 almost identical this year. The administrative part should be ignored.
 
 #### Lecture materials:
