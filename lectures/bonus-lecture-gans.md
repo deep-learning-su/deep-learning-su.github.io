@@ -3,8 +3,8 @@ layout: page
 title: Bonus Lecture - Generative Adversarial Networks
 ---
 
-We no longer present this lecture in our course but it is interesting and
-valuable thus we recommend watching it offline.
+We no longer present this lecture in our course but it is nevertheless interesting
+and valuable material thus we recommend watching it offline.
 
 #### Lecture materials:
 - [Video 2018](https://youtu.be/a6UdUc_WZW8)
