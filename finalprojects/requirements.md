@@ -15,7 +15,7 @@ have a large contribution.
 
 #### Important dates
 
-- Course project proposal: due **June 15th, 2020**.
+- Course project proposal: due **May 30th, 2021**.
 - The final presentations date: **TBA**
 
 #### Student projects from previous years
@@ -36,7 +36,7 @@ You can see more information [here](../project-inspirations).
 
 The project proposal is only for groups doing the choose-your-own final project.
 Please submit one proposal per team (any member of your team can submit) to
-the [Google Form](https://forms.gle/7ZJyqDXRjUEMktQq6) by 11:59pm on June 8th.
+the [Google Form](https://forms.gle/tsTdJpJohCNhSLzu5) by 11:59pm on May 30th.
 You can not use late days for the project proposal.
 It should contain the following sections:
 
