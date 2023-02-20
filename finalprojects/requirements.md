@@ -12,6 +12,7 @@ Course Project have 3 parts:
  - Experimentation and PoC
  - Describing results as a paper and publishing the code at github(delivery is: paper+code)
  - Anonymous review of another course project
+
 Evaluation is made based on:
  - Complexity of the problem
  - Quality of the experiment
@@ -19,7 +20,9 @@ Evaluation is made based on:
  - Quality of the review
 
  Example how the project should look like: 
+
  [Example 1](http://quantum-dynamics.phys.uni-sofia.bg/teaching/materials_RL_WiSe_2020/final_projects/project-team_11.pdf)
+ 
  [Example 2](http://quantum-dynamics.phys.uni-sofia.bg/teaching/materials_RL_WiSe_2020/final_projects/project-team_3.pdf)
 
 
