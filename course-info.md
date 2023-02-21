@@ -21,6 +21,7 @@ moodle: https://learn.fmi.uni-sofia.bg/course/view.php?id=9137
 See the [Assignment Page](/../assignment-requirements) for more details on how to hand in your assignments.
 
 #### Course Project Details
-To be announced soon.
+See the [Project Requirements](/../finalprojects/requirements) for more details..
+
 
 
